@@ -1,0 +1,103 @@
+{
+    "countries": [
+        {
+            "name": "Canada",
+            "flag": "🇨🇦",
+            "capital": "Ottawa",
+            "largestCity": "Toronto",
+            "currency": "Canadian dollar ($) [CAD]",
+            "dateFormat": "yyyy-mm-dd",
+            "drivingSide": "right",
+            "phoneCode": "+1",
+            "topLevelDomain": ".ca"
+        },
+        {
+            "name": "Norway",
+            "flag": "🇳🇴",
+            "capital": "Oslo",
+            "largestCity": "Oslo",
+            "currency": "Norwegian krone (kr) [NOK]",
+            "dateFormat": "dd.mm.yyyy",
+            "drivingSide": "right",
+            "phoneCode": "+47",
+            "topLevelDomain": ".no"
+        },
+        {
+            "name": "Ireland",
+            "flag": "🇮🇪",
+            "capital": "Dublin",
+            "largestCity": "Dublin",
+            "currency": "Euro (€) [EUR]",
+            "dateFormat": "dd/mm/yyyy",
+            "drivingSide": "left",
+            "phoneCode": "+353",
+            "topLevelDomain": ".ie"
+        },
+        {
+            "name": "United States",
+            "flag": "🇺🇸",
+            "capital": "Washington, D.C.",
+            "largestCity": "New York City",
+            "currency": "United States dollar ($) [USD]",
+            "dateFormat": "mm/dd/yyyy",
+            "drivingSide": "right",
+            "phoneCode": "+1",
+            "topLevelDomain": ".us"
+        },
+        {
+            "name": "New Zealand",
+            "flag": "🇳🇿",
+            "capital": "Wellington",
+            "largestCity": "Auckland",
+            "currency": "New Zealand dollar ($) [NZD]",
+            "dateFormat": "dd/mm/yyyy",
+            "drivingSide": "left",
+            "phoneCode": "+64",
+            "topLevelDomain": ".nz"
+        },
+        {
+            "name": "Sweden",
+            "flag": "🇸🇪",
+            "capital": "Stockholm",
+            "largestCity": "Stockholm",
+            "currency": "Swedish krona () [SEK]",
+            "dateFormat": "YYYY-MM-DD",
+            "drivingSide": "right",
+            "phoneCode": "+46",
+            "topLevelDomain": ".se"
+        },
+        {
+            "name": "Finland",
+            "flag": "🇫🇮",
+            "capital": "Helsinki",
+            "largestCity": "Helsinki",
+            "currency": "Euro (€) [EUR]",
+            "dateFormat": "d.m.yyyy",
+            "drivingSide": "right",
+            "phoneCode": "+358",
+            "topLevelDomain": ".fi"
+        },
+        {
+            "name": "Germany",
+            "flag": "🇩🇪",
+            "capital": "Berlin",
+            "largestCity": "Berlin",
+            "currency": "Euro (€) [EUR]",
+            "dateFormat": "d.m.yyyy",
+            "drivingSide": "right",
+            "phoneCode": "+49",
+            "topLevelDomain": ".de"
+        },
+        {
+            "name": "Czech Republic",
+            "flag": "🇨🇿",
+            "capital": "Prague",
+            "largestCity": "Prague",
+            "currency": "Czech koruna () [CZK]",
+            "dateFormat": "d.m.yyyy",
+            "drivingSide": "right",
+            "phoneCode": "+420",
+            "topLevelDomain": ".cz"
+        }
+    ]
+}
